@@ -1,0 +1,6 @@
+{
+  "name": "KisanSetu - India Agricultural Marketplace",
+  "description": "Direct India-wide agricultural marketplace connecting farmers and buyers with video crop listings, transparent mandi pricing, 1-hour request response SLA, quantity locking, and mutual OTP cancellation protection.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
